@@ -1,6 +1,17 @@
-# QsApp
+# AngularQuickStart
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
+This project is an empty Angular5 project, with slight modification to the file structure and some other usefull stuff.
+
+## File Structure
+
+### Modules
+
+Each module should be created in the modules folder and have the following folders inside
+```
+components
+services (if needed)
+models (if needed)
+```
 
 ## Development server
 
