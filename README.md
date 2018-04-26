@@ -21,6 +21,13 @@ Alias for environment and app for clear import.
 import { environment } from '@env/environment';
 import { SomeModule } from '@app/core';
 ```
+### Getting Started
+
+Install Angular Cli
+
+```
+$ npm install -g @angular/cli
+```
 
 ## Development server
 
