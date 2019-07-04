@@ -1,6 +1,6 @@
 # AngularQuickStart
 
-This project is an empty Angular5 project, with slight modification to the file structure and some other usefull stuff.
+This project is an empty Angular8 project, with slight modification to the file structure and some other usefull stuff.
 
 ## Features
 
@@ -27,6 +27,11 @@ Install Angular Cli
 
 ```
 $ npm install -g @angular/cli
+```
+
+Install Dependencies
+```
+$ npm install
 ```
 
 ## Development server
